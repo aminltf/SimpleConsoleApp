@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{962FF65F-9F1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateConverter", "src\DateConverter\DateConverter.csproj", "{B3850133-35C5-47C9-83E7-2E42B7820E16}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrRev", "src\StrRev\StrRev.csproj", "{7736E7FA-7F37-4650-8FB6-541B6EABBBF4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +19,17 @@ Global
 		{B3850133-35C5-47C9-83E7-2E42B7820E16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3850133-35C5-47C9-83E7-2E42B7820E16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3850133-35C5-47C9-83E7-2E42B7820E16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7736E7FA-7F37-4650-8FB6-541B6EABBBF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7736E7FA-7F37-4650-8FB6-541B6EABBBF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7736E7FA-7F37-4650-8FB6-541B6EABBBF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7736E7FA-7F37-4650-8FB6-541B6EABBBF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{B3850133-35C5-47C9-83E7-2E42B7820E16} = {962FF65F-9F10-44B0-B139-0F8A620C7D82}
+		{7736E7FA-7F37-4650-8FB6-541B6EABBBF4} = {962FF65F-9F10-44B0-B139-0F8A620C7D82}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FD555BD9-B8AB-486B-85FD-525CEE48E3C9}
